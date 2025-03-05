@@ -31,6 +31,7 @@ export default {
     text-align: center;
     position: fixed;
     width: 100%;
+    max-width: 400px;
     font-size: 17px;
     bottom: 0;
   }

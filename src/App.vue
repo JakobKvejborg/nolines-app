@@ -1,9 +1,7 @@
 <template>
-  <div id="app">
     <AppNavbar />  
     <router-view></router-view> <!-- Renders different pages -->
     <AppFooter />  
-  </div>
 </template>
 
 <script>
